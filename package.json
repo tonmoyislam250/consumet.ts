@@ -1,5 +1,5 @@
 {
-    "name": "@tonmoyislam/extensions",
+    "name": "@tiktikimelbo7/extensions",
     "version": "1.5.0",
     "description": "Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.",
     "main": "dist/index.js",
